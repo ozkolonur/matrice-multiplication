@@ -1,0 +1,5 @@
+standart.c 		computes using single core single thread
+main.c 			computes using mpi
+*TODO threaded.c	computes using single core multi thread
+*TODO mpi_threaded.c	computes using mpi and multi threaded on every cpu
+
